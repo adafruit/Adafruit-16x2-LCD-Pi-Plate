@@ -4,7 +4,7 @@
 
 * https://www.adafruit.com/product/1110
 * https://www.adafruit.com/product/1115
-* http://www.adafruit.com/products/1109 (*discontinued*)
+* http://www.adafruit.com/products/1109
 
 This new Adafruit Pi Plate makes it easy to use a blue and white 16x2 Character LCD. [We really like the 16x2 Character LCDs we stock in the shop](http://www.adafruit.com/products/181). Unfortunately, these LCDs do require quite a few digital pins, 6 to control the LCD and then another 1 to control the backlight for a total of 7 pins. That's nearly all the GPIO available on a Pi!
 
